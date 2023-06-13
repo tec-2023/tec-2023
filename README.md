@@ -1,0 +1,4 @@
+- 👋 Hola, Soy Alexander A. López
+- 👀 Me encanta la programacion Web y quiero aorender a programar lo mejor posible.
+- 🌱 Actualmente estoy aprendiendo JavaScript, PHP y Phyton
+- 💞️ Me gustaria poder colaborar en algun proyecto, asi me permitirá aprender y colaborar con otros.
